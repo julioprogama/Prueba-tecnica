@@ -1,0 +1,231 @@
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\OnbaseService.dll.config
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\OnbaseService.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\OnbaseService.pdb
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\api.datecsa.controlador.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\api.datecsa.modelo.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\api.datecsa.unityAPI.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\Microsoft.IdentityModel.Logging.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\Microsoft.Web.Infrastructure.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\Newtonsoft.Json.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\Swashbuckle.Core.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\System.Net.Http.Formatting.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\System.Web.Http.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\System.Web.Http.WebHost.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\WebActivatorEx.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\Hyland.Applications.Web.Security.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\api.datecsa.controlador.pdb
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\api.datecsa.modelo.pdb
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\api.datecsa.unityAPI.pdb
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\Microsoft.IdentityModel.Logging.xml
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\Newtonsoft.Json.xml
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\System.Net.Http.Formatting.xml
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\System.Web.Http.xml
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\System.Web.Http.WebHost.xml
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\es\System.Web.Http.resources.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\obj\Debug\OnbaseService.csprojAssemblyReference.cache
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\obj\Debug\OnbaseService.csproj.CopyComplete
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\obj\Debug\OnbaseService.dll
+D:\Usuarios\josefinlay\Documents\clientes\Javeriana\OnbaseService\OnbaseService\obj\Debug\OnbaseService.pdb
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\OnbaseService.dll.config
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\OnbaseService.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\OnbaseService.pdb
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\api.datecsa.controlador.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\api.datecsa.modelo.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\api.datecsa.unityAPI.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\Microsoft.IdentityModel.Logging.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\Microsoft.Web.Infrastructure.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\Newtonsoft.Json.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\Swashbuckle.Core.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\System.Net.Http.Formatting.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\System.Web.Http.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\System.Web.Http.WebHost.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\WebActivatorEx.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\Hyland.Applications.Web.Security.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\api.datecsa.controlador.pdb
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\api.datecsa.modelo.pdb
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\api.datecsa.unityAPI.pdb
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\Microsoft.IdentityModel.Logging.xml
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\Newtonsoft.Json.xml
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\System.Net.Http.Formatting.xml
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\System.Web.Http.xml
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\System.Web.Http.WebHost.xml
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\es\System.Web.Http.resources.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\obj\Debug\OnbaseService.csprojAssemblyReference.cache
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\obj\Debug\OnbaseService.csproj.CoreCompileInputs.cache
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\obj\Debug\OnbaseService.csproj.CopyComplete
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\obj\Debug\OnbaseService.dll
+D:\Usuarios\juliolandazury\Downloads\OnbaseService (2)\OnbaseService\OnbaseService\obj\Debug\OnbaseService.pdb
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\OnbaseService.dll.config
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\OnbaseService.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\OnbaseService.pdb
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\api.datecsa.controlador.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\api.datecsa.modelo.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\api.datecsa.unityAPI.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Logging.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\Microsoft.Web.Infrastructure.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\Newtonsoft.Json.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\Swashbuckle.Core.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\System.Net.Http.Formatting.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\System.Web.Http.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\System.Web.Http.WebHost.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\WebActivatorEx.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\Hyland.Applications.Web.Security.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\api.datecsa.controlador.pdb
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\api.datecsa.controlador.dll.config
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\api.datecsa.modelo.pdb
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\api.datecsa.unityAPI.pdb
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Logging.xml
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\Newtonsoft.Json.xml
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\System.Net.Http.Formatting.xml
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\System.Web.Http.xml
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\System.Web.Http.WebHost.xml
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\es\System.Web.Http.resources.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\obj\Debug\OnbaseService.csprojAssemblyReference.cache
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\obj\Debug\OnbaseService.csproj.CoreCompileInputs.cache
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\obj\Debug\OnbaseService.csproj.CopyComplete
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\obj\Debug\OnbaseService.dll
+D:\Usuarios\juliolandazury\source\repos\OnbaseService\obj\Debug\OnbaseService.pdb
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\OnbaseService.dll.config
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\OnbaseService.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\OnbaseService.pdb
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\OnbaseService.dll.CodeAnalysisLog.xml
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\OnbaseService.dll.lastcodeanalysissucceeded
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.controlador.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.modelo.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.unityAPI.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\Newtonsoft.Json.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\Swashbuckle.Core.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\System.Net.Http.Formatting.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\System.Web.Http.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\System.Web.Http.WebHost.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\WebActivatorEx.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\Hyland.Applications.Web.Security.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.controlador.pdb
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.controlador.dll.config
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.modelo.pdb
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.unityAPI.pdb
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\Newtonsoft.Json.xml
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\System.Net.Http.Formatting.xml
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\System.Web.Http.xml
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\System.Web.Http.WebHost.xml
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\es\System.Web.Http.resources.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\obj\Debug\OnbaseService.csproj.AssemblyReference.cache
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\obj\Debug\OnbaseService.csproj.CoreCompileInputs.cache
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\obj\Debug\OnbaseService.csproj.CopyComplete
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\obj\Debug\OnbaseService.dll
+C:\Users\juliolandazury\Desktop\archivos disc anterior\source\repos\OnbaseService\obj\Debug\OnbaseService.pdb
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\obj\Debug\OnbaseService.csproj.AssemblyReference.cache
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\obj\Debug\OnbaseService.csproj.CoreCompileInputs.cache
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\OnbaseService.dll.config
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\OnbaseService.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\OnbaseService.pdb
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\OnbaseService.dll.CodeAnalysisLog.xml
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\OnbaseService.dll.lastcodeanalysissucceeded
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.controlador.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.modelo.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.unityAPI.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\Newtonsoft.Json.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\Swashbuckle.Core.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\System.Net.Http.Formatting.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\System.Web.Http.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\System.Web.Http.WebHost.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\WebActivatorEx.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\Hyland.Applications.Web.Security.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.controlador.pdb
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.controlador.dll.config
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.modelo.pdb
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\api.datecsa.unityAPI.pdb
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Logging.xml
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\Microsoft.IdentityModel.Tokens.xml
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\Newtonsoft.Json.xml
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\System.Net.Http.Formatting.xml
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\System.Web.Http.xml
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\System.Web.Http.WebHost.xml
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\es\System.Net.Http.Formatting.resources.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\es\System.Web.Http.resources.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\bin\es\System.Web.Http.WebHost.resources.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\obj\Debug\OnbaseService.csproj.CopyComplete
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\obj\Debug\OnbaseService.dll
+D:\OneDrive - Datecsa S.A\Escritorio\archivos disc anterior\source\repos\OnbaseService\obj\Debug\OnbaseService.pdb
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\OnbaseService.dll.config
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\OnbaseService.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\OnbaseService.pdb
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\OnbaseService.dll.CodeAnalysisLog.xml
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\OnbaseService.dll.lastcodeanalysissucceeded
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\api.datecsa.controlador.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\api.datecsa.modelo.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\api.datecsa.unityAPI.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\Newtonsoft.Json.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\Swashbuckle.Core.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\System.Net.Http.Formatting.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\System.Web.Http.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\System.Web.Http.WebHost.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\WebActivatorEx.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\Hyland.Applications.Web.Security.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\api.datecsa.controlador.pdb
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\api.datecsa.controlador.dll.config
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\api.datecsa.modelo.pdb
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\api.datecsa.unityAPI.pdb
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\Microsoft.IdentityModel.Logging.xml
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\Microsoft.IdentityModel.Tokens.xml
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\Newtonsoft.Json.xml
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\System.Net.Http.Formatting.xml
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\System.Web.Http.xml
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\System.Web.Http.WebHost.xml
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\es\System.Net.Http.Formatting.resources.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\es\System.Web.Http.resources.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\bin\es\System.Web.Http.WebHost.resources.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\obj\Debug\OnbaseService.csproj.AssemblyReference.cache
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\obj\Debug\OnbaseService.csproj.CoreCompileInputs.cache
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\obj\Debug\OnbaseService.csproj.CopyComplete
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\obj\Debug\OnbaseService.dll
+D:\OneDrive - Datecsa S.A\Documentos\Proyectos\Universidad de antioquia 1803\DESARROLLO\repos\OnbaseService\obj\Debug\OnbaseService.pdb

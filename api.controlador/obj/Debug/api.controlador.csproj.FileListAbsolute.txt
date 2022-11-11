@@ -1,0 +1,33 @@
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\bin\Debug\api.datecsa.controlador.dll.config
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\bin\Debug\api.datecsa.controlador.dll
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\bin\Debug\api.datecsa.controlador.pdb
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\bin\Debug\api.datecsa.modelo.dll
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\bin\Debug\api.datecsa.unityAPI.dll
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\bin\Debug\Hyland.Applications.Web.Security.dll
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\bin\Debug\api.datecsa.modelo.pdb
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\bin\Debug\api.datecsa.unityAPI.pdb
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\obj\Debug\api.controlador.csproj.AssemblyReference.cache
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\obj\Debug\api.controlador.csproj.CoreCompileInputs.cache
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\obj\Debug\api.controlador.csproj.CopyComplete
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\obj\Debug\api.datecsa.controlador.dll
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.controlador\obj\Debug\api.datecsa.controlador.pdb
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\api.controlador.dll.config
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\api.controlador.dll
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\api.controlador.pdb
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\api.modelo.dll
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\api.unityAPI.dll
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\Npgsql.dll
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\netstandard.dll
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\api.modelo.pdb
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\api.unityAPI.pdb
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\bin\Debug\Npgsql.xml
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\obj\Debug\api.controlador.csproj.AssemblyReference.cache
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\obj\Debug\api.controlador.csproj.CoreCompileInputs.cache
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\obj\Debug\api.controlador.csproj.CopyComplete
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\obj\Debug\api.controlador.dll
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.controlador\obj\Debug\api.controlador.pdb

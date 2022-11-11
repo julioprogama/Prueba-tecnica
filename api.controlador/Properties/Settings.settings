@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="api.controlador.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PublicKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pub_test_CIrx7q8B0Rrrb9eSHYS1QMzAxSWrx4Q2 </Value>
+    </Setting>
+    <Setting Name="endPoint" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://sandbox.wompi.co/v1/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

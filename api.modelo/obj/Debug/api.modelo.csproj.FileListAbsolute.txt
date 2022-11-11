@@ -1,0 +1,16 @@
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.modelo\bin\Debug\api.modelo.dll
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.modelo\bin\Debug\api.modelo.pdb
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.modelo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.modelo\obj\Debug\api.modelo.csproj.AssemblyReference.cache
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.modelo\obj\Debug\api.modelo.csproj.CoreCompileInputs.cache
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.modelo\obj\Debug\api.modelo.csproj.CopyComplete
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.modelo\obj\Debug\api.modelo.dll
+C:\Users\Julio Landazury\Desktop\Wompi\WebServPqrs\api.datecsa.modelo\obj\Debug\api.modelo.pdb
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.modelo\bin\Debug\api.modelo.dll
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.modelo\bin\Debug\api.modelo.pdb
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.modelo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.modelo\obj\Debug\api.modelo.csproj.AssemblyReference.cache
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.modelo\obj\Debug\api.modelo.csproj.CoreCompileInputs.cache
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.modelo\obj\Debug\api.modelo.csproj.CopyComplete
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.modelo\obj\Debug\api.modelo.dll
+C:\Users\Julio Landazury\Desktop\Wompi\Prueba tecnica Wompi\api.modelo\obj\Debug\api.modelo.pdb

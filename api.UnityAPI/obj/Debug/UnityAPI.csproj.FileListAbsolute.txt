@@ -1,0 +1,92 @@
+C:\API Certification Class\APITraining\LabProjectSolutions\API Training Application\UnityAPI\obj\Debug\UnityAPI.csprojResolveAssemblyReference.cache
+C:\API Certification Class\APITraining\LabProjectSolutions\API Training Application\UnityAPI\bin\Debug\UnityAPI.dll
+C:\API Certification Class\APITraining\LabProjectSolutions\API Training Application\UnityAPI\bin\Debug\UnityAPI.pdb
+C:\API Certification Class\APITraining\LabProjectSolutions\API Training Application\UnityAPI\bin\Debug\Hyland.Types.dll
+C:\API Certification Class\APITraining\LabProjectSolutions\API Training Application\UnityAPI\bin\Debug\Hyland.Unity.dll
+C:\API Certification Class\APITraining\LabProjectSolutions\API Training Application\UnityAPI\obj\Debug\UnityAPI.dll
+C:\API Certification Class\APITraining\LabProjectSolutions\API Training Application\UnityAPI\obj\Debug\UnityAPI.pdb
+D:\Usuarios\josefinlay\Documents\CapacitacionesHyland\Weekly Material API\LabProjectSolutions\API Training Application\UnityAPI\bin\Debug\UnityAPI.dll
+D:\Usuarios\josefinlay\Documents\CapacitacionesHyland\Weekly Material API\LabProjectSolutions\API Training Application\UnityAPI\bin\Debug\UnityAPI.pdb
+D:\Usuarios\josefinlay\Documents\CapacitacionesHyland\Weekly Material API\LabProjectSolutions\API Training Application\UnityAPI\bin\Debug\Hyland.Types.dll
+D:\Usuarios\josefinlay\Documents\CapacitacionesHyland\Weekly Material API\LabProjectSolutions\API Training Application\UnityAPI\bin\Debug\Hyland.Unity.dll
+D:\Usuarios\josefinlay\Documents\CapacitacionesHyland\Weekly Material API\LabProjectSolutions\API Training Application\UnityAPI\obj\Debug\UnityAPI.csprojAssemblyReference.cache
+D:\Usuarios\josefinlay\Documents\CapacitacionesHyland\Weekly Material API\LabProjectSolutions\API Training Application\UnityAPI\obj\Debug\UnityAPI.csproj.CoreCompileInputs.cache
+D:\Usuarios\josefinlay\Documents\CapacitacionesHyland\Weekly Material API\LabProjectSolutions\API Training Application\UnityAPI\obj\Debug\UnityAPI.csproj.CopyComplete
+D:\Usuarios\josefinlay\Documents\CapacitacionesHyland\Weekly Material API\LabProjectSolutions\API Training Application\UnityAPI\obj\Debug\UnityAPI.dll
+D:\Usuarios\josefinlay\Documents\CapacitacionesHyland\Weekly Material API\LabProjectSolutions\API Training Application\UnityAPI\obj\Debug\UnityAPI.pdb
+D:\Usuarios\josefinlay\source\repos\WSJaveriana\UnityAPI\bin\Debug\UnityAPI.dll
+D:\Usuarios\josefinlay\source\repos\WSJaveriana\UnityAPI\bin\Debug\UnityAPI.pdb
+D:\Usuarios\josefinlay\source\repos\WSJaveriana\UnityAPI\obj\Debug\UnityAPI.csprojAssemblyReference.cache
+D:\Usuarios\josefinlay\source\repos\WSJaveriana\UnityAPI\obj\Debug\UnityAPI.csproj.CoreCompileInputs.cache
+D:\Usuarios\josefinlay\source\repos\WSJaveriana\UnityAPI\obj\Debug\UnityAPI.csproj.CopyComplete
+D:\Usuarios\josefinlay\source\repos\WSJaveriana\UnityAPI\obj\Debug\UnityAPI.dll
+D:\Usuarios\josefinlay\source\repos\WSJaveriana\UnityAPI\obj\Debug\UnityAPI.pdb
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\bin\Debug\UnityAPI.dll
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\bin\Debug\UnityAPI.pdb
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\bin\Debug\Modelo.dll
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\bin\Debug\Modelo.pdb
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\obj\Debug\UnityAPI.csprojAssemblyReference.cache
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\obj\Debug\UnityAPI.csproj.CoreCompileInputs.cache
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\obj\Debug\UnityAPI.csproj.CopyComplete
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\obj\Debug\UnityAPI.dll
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\obj\Debug\UnityAPI.pdb
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\bin\Debug\Hyland.Types.dll
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\bin\Debug\Hyland.Unity.dll
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\bin\Debug\Hyland.Unity.pdb
+D:\EjemploOAuth2\WSOnbase\Cliente\UnityAPI\bin\Debug\Hyland.Unity.xml
+C:\WSOnbase\Cliente\UnityAPI\bin\Debug\UnityAPI.dll
+C:\WSOnbase\Cliente\UnityAPI\bin\Debug\UnityAPI.pdb
+C:\WSOnbase\Cliente\UnityAPI\bin\Debug\Modelo.dll
+C:\WSOnbase\Cliente\UnityAPI\bin\Debug\Modelo.pdb
+C:\WSOnbase\Cliente\UnityAPI\obj\Debug\UnityAPI.csprojAssemblyReference.cache
+C:\WSOnbase\Cliente\UnityAPI\obj\Debug\UnityAPI.csproj.CopyComplete
+C:\WSOnbase\Cliente\UnityAPI\obj\Debug\UnityAPI.dll
+C:\WSOnbase\Cliente\UnityAPI\obj\Debug\UnityAPI.pdb
+C:\WSOnbaseUnity\Cliente\UnityAPI\bin\Debug\UnityAPI.dll
+C:\WSOnbaseUnity\Cliente\UnityAPI\bin\Debug\UnityAPI.pdb
+C:\WSOnbaseUnity\Cliente\UnityAPI\bin\Debug\Modelo.dll
+C:\WSOnbaseUnity\Cliente\UnityAPI\bin\Debug\Newtonsoft.Json.dll
+C:\WSOnbaseUnity\Cliente\UnityAPI\bin\Debug\Modelo.pdb
+C:\WSOnbaseUnity\Cliente\UnityAPI\bin\Debug\Newtonsoft.Json.xml
+C:\WSOnbaseUnity\Cliente\UnityAPI\obj\Debug\UnityAPI.csprojAssemblyReference.cache
+C:\WSOnbaseUnity\Cliente\UnityAPI\obj\Debug\UnityAPI.csproj.CopyComplete
+C:\WSOnbaseUnity\Cliente\UnityAPI\obj\Debug\UnityAPI.dll
+C:\WSOnbaseUnity\Cliente\UnityAPI\obj\Debug\UnityAPI.pdb
+C:\WSOnbaseUnity\Cliente\UnityAPI\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\source\repos\OnbaseBasicAPI\UnityAPI\bin\Debug\UnityAPI.dll
+C:\Users\Admin\source\repos\OnbaseBasicAPI\UnityAPI\bin\Debug\UnityAPI.pdb
+C:\Users\Admin\source\repos\OnbaseBasicAPI\UnityAPI\bin\Debug\Modelo.dll
+C:\Users\Admin\source\repos\OnbaseBasicAPI\UnityAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\OnbaseBasicAPI\UnityAPI\bin\Debug\Modelo.pdb
+C:\Users\Admin\source\repos\OnbaseBasicAPI\UnityAPI\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\source\repos\OnbaseBasicAPI\UnityAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\OnbaseBasicAPI\UnityAPI\obj\Debug\UnityAPI.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OnbaseBasicAPI\UnityAPI\obj\Debug\UnityAPI.csproj.CopyComplete
+C:\Users\Admin\source\repos\OnbaseBasicAPI\UnityAPI\obj\Debug\UnityAPI.dll
+C:\Users\Admin\source\repos\OnbaseBasicAPI\UnityAPI\obj\Debug\UnityAPI.pdb
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\obj\Debug\UnityAPI.csprojAssemblyReference.cache
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\obj\Debug\UnityAPI.dll
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\obj\Debug\UnityAPI.pdb
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\bin\Debug\UnityAPI.dll
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\bin\Debug\UnityAPI.pdb
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\bin\Debug\Hyland.Applications.Web.Security.dll
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\bin\Debug\Modelo.dll
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\bin\Debug\Newtonsoft.Json.dll
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\bin\Debug\Modelo.pdb
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\obj\Debug\UnityAPI.csproj.CopyComplete
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\bin\Debug\Security.Cryptography.dll
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\bin\Debug\Newtonsoft.Json.pdb
+C:\DatasourceUrosario\OnbaseBasicAPI\UnityAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\obj\Debug\UnityAPI.csprojAssemblyReference.cache
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\obj\Debug\UnityAPI.dll
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\obj\Debug\UnityAPI.pdb
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\bin\Debug\UnityAPI.dll
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\bin\Debug\UnityAPI.pdb
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\bin\Debug\Hyland.Applications.Web.Security.dll
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\bin\Debug\Modelo.dll
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\bin\Debug\Security.Cryptography.dll
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\bin\Debug\Modelo.pdb
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\bin\Debug\Newtonsoft.Json.pdb
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Usuarios\josefinlay\Documents\Downloads\WebAPI-Segura-JWT-master\WebAPI-Segura-JWT-master\UnityAPI\obj\Debug\UnityAPI.csproj.CopyComplete
